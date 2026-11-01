@@ -1,0 +1,6 @@
+{
+  "name": "AMA Visual Concepts",
+  "description": "AMA Visual Concepts is a Sri Lankan creative and integrated marketing company bringing strategy, creative production and digital experiences together.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
